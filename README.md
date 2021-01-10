@@ -12,5 +12,7 @@ This is an AB testing framework using the frequentist approach. Features include
  # Intended purpose
  Serves as a "skeleton" framework for AB testing. All the built functions can be seen as assets that can even be distributed in production using modules
  
- # Preview:
+ # Assets Preview:
+ ![AB proportions distribution](AB test distribution.jpg)
  
+ ![AB test resulting power](AB test power.jpg)
